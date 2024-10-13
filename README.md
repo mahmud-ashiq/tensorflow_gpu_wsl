@@ -7,7 +7,7 @@
     wsl --install
 
 ### 1.2 After installing run these following commands:
-    supo apt update
+    sudo apt update
     sudo apt upgrade
     sudo install build-essentials
 
