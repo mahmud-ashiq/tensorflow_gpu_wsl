@@ -9,7 +9,7 @@
 ### 1.2 After installing run these following commands:
     sudo apt update
     sudo apt upgrade
-    sudo install build-essentials
+    sudo apt-get install build-essential
 
 ### 1.3 Create a link between WSL and Windows user (put your windows username in the command):
     ln -s /mnt/c/Users/[your_windows_username] ~/win-home
